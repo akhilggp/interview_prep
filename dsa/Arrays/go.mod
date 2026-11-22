@@ -1,3 +1,3 @@
-module interview_prep
+module dsa
 
 go 1.25.0
