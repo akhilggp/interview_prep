@@ -1,3 +1,5 @@
+package dsa
+
 func containsDuplicate(nums []int) bool {
 
 	duplicateMap := make(map[int]struct{})

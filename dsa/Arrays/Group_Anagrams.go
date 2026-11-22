@@ -1,3 +1,5 @@
+package dsa
+
 import "slices"
 
 func groupAnagrams(strs []string) [][]string {

@@ -1,3 +1,5 @@
+package dsa
+
 func twoSum(nums []int, target int) []int {
 	setMap := make(map[int]int, len(nums))
 
